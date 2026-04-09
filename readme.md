@@ -5,6 +5,7 @@ A beautiful, minimalist markdown editor with real-time preview and paste-friendl
 ![Vue 3](https://img.shields.io/badge/Vue-3-4FC08D?logo=vue.js)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Version](https://img.shields.io/badge/Version-1.0.0-purple)
+![Deploy](https://github.com/nikoyourcousin/markdown-editor/actions/workflows/deploy.yml/badge.svg)(https://github.com/nikoyourcousin/markdown-editor/actions/workflows/deploy.yml)
 
 ## ✨ Features
 
